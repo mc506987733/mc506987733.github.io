@@ -1,53 +1,69 @@
-<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+	<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav nav-top">
-			            <li class="active">
-                <a href="http://mc.24bp.cn/">
-				<i class="fa fa-home"></i> 首页				                
+			            <li class="active" >
+                <a href="https://pjax.cn/"    >
+				<i class='fa fa-home'></i> 首页				                
 				</a>
 				                            </li>
-                        <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-				<i class="fa fa-twitch"></i> 精选推荐								<span class="fa fa-angle-down"></span>
+                        <li class="dropdown" >
+                <a href="https://pjax.cn/sort/recommend"   class="dropdown-toggle" data-toggle="dropdown" >
+				<i class='fa fa-twitch'></i> 精选推荐								<span class="fa fa-angle-down"></span>
 				                
 				</a>
 				                <ul class="dropdown-menu">
-            	<li><a href="http://mc.24bp.cn/category/easynews"><i class="fa fa-plug"></i> 简单报</a></li>
- 	<li><a href="http://mc.24bp.cn/category/uncategorized"><i class="fa fa-flask"></i> 生活事</a></li>
- 	<li><a href="http://mc.24bp.cn/category/world"><i class="fa fa-globe"></i> 看世界</a></li>
- 	<li><a href="http://mc.24bp.cn/category/sqd"><i class="fa fa-foursquare"></i> 耍腔调</a></li>
-  
-		    </ul>
+                    <li><a href="https://pjax.cn/sort/grfx"><i class="fa fa-plug"></i> 个人分享</a></li><li><a href="https://pjax.cn/sort/sxbj"><i class="fa fa-pencil-square-o"></i> 随心笔记</a></li><li><a href="https://pjax.cn/sort/tools"><i class="fa fa-wrench"></i> 常用工具</a></li><li><a href="https://pjax.cn/sort/system"><i class="fa fa-windows"></i> 纯净系统</a></li><li><a href="https://pjax.cn/sort/jiqiao"><i class="fa fa-globe"></i> 网络技巧</a></li><li><a href="https://pjax.cn/sort/jzjc"><i class="fa fa-code"></i> 建站教程</a></li><li><a href="https://pjax.cn/sort/movie"><i class="fa fa-play-circle"></i> 影视资源</a></li><li><a href="https://pjax.cn/sort/contribute"><i class="fa fa-thumbs-o-up"></i> 网友投稿</a></li><li><a href="https://pjax.cn/sort/gaoxiao"><i class="fa fa-picture-o"></i> 搞笑时刻</a></li>                </ul>
                                             </li>
-                        <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-				<i class="fa fa-language"></i> 模板插件								<span class="fa fa-angle-down"></span>
+                        <li class="dropdown" >
+                <a href="https://pjax.cn/sort/theme"   class="dropdown-toggle" data-toggle="dropdown" >
+				<i class='fa fa-language'></i> 模板插件								<span class="fa fa-angle-down"></span>
 				                
 				</a>
 				                <ul class="dropdown-menu">
-                    <li><a href="#"><i class="fa fa-desktop"></i> emlog</a></li>         </ul>
+                    <li><a href="https://pjax.cn/sort/emlog"><i class="fa fa-desktop"></i> emlog</a></li><li><a href="https://pjax.cn/sort/zblog"><i class="fa fa-foursquare"></i> zblog</a></li><li><a href="https://pjax.cn/sort/wordpress"><i class="fa fa-wordpress"></i> wordpress</a></li>                </ul>
                                             </li>
-                        <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-				<i class="fa fa-credit-card"></i> VIP专区								<span class="fa fa-angle-down"></span>
+                        <li class="dropdown" >
+                <a href="https://pjax.cn/sort/vip"   class="dropdown-toggle" data-toggle="dropdown" >
+				<i class='fa fa-credit-card'></i> VIP专区								<span class="fa fa-angle-down"></span>
 				                
 				</a>
 				                <ul class="dropdown-menu">
-                    <li><a href="#"><i class="fa fa-shopping-bag"></i> 模板专区</a></li>            </ul>
+                    <li><a href="https://pjax.cn/sort/templates"><i class="fa fa-shopping-bag"></i> 模板专区</a></li><li><a href="https://pjax.cn/sort/plugins"><i class="fa fa-retweet"></i> 插件专区</a></li>                </ul>
                                             </li>
-                        <li class="">
-                <a href="#">
-				<i class="fa fa-gavel"></i> 骗子曝光				                
+                        <li class="" >
+                <a href="https://pjax.cn/sort/37"    >
+				<i class='fa fa-gavel'></i> 骗子曝光				                
 				</a>
 				                            </li>
                                     <li class="dropdown">
                 <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-flask"></i> 更多功能 <span class="fa fa-angle-down"></span> </a>
                 <ul class="dropdown-menu">
-                    <li><a href="#"><i class="fa fa-comment"></i> 留言吐槽</a></li>            </ul>
+                    <li><a href="https://pjax.cn/contact.html"><i class="fa fa-comment"></i> 留言吐槽</a></li>
+<li><a href="https://pjax.cn/album.html"><i class="fa fa-picture-o"></i> 相册图库</a></li>
+<li><a href="https://pjax.cn/?plugin=gs_player"><i class="fa fa-music"></i> 音乐收藏</a></li>
+<li><a href="https://pjax.cn/archives.html"><i class="fa fa-list"></i> 文章归档</a></li>
+<li><a href="https://pjax.cn/links.html"><i class="fa fa-link"></i> 我的邻居</a></li>
+<li><a href="https://pjax.cn/tools.html"><i class="fa fa-wrench"></i> 站长工具</a></li>
+<li><a href="https://pjax.cn/about.html"><i class="fa fa-id-card-o"></i> 关于饺子</a></li>                 </ul>
             </li>
             			</ul>
 			<div class="fly-nav-right">
-				<div class="login-nav"><a href="https://pjax.cn/#" class="expand" data-target="#myLogin" data-toggle="modal" data-backdrop="static" target="_blank"><i class="fa fa-user-circle"></i></a></div>
-				<div class="logout-nav" style="display:none"><a href="https://pjax.cn/?user&amp;home"><span class="login-avatars"></span></a><div class="avatar-menu"><div class="dltips"><div class="dlli"><a href="https://pjax.cn/?user&amp;datas"><i class="fa fa-user-circle-o"></i> 修改资料</a></div><div class="dlli lgset"></div><div class="dlli logout"><a href="javascript:;" class="login_logout"><i class="fa fa-sign-out"></i> 退出登录</a></div></div></div></div>
+				<div class="login-nav"><a href="#" class="expand" data-target="#myLogin" data-toggle="modal" data-backdrop="static" target="_blank"><i class="fa fa-user-circle"></i></a></div>
+				<div class="logout-nav" style="display:none"><a href="https://pjax.cn/?user&home"><span class="login-avatars"></span></a><div class="avatar-menu"><div class="dltips"><div class="dlli"><a href="https://pjax.cn/?user&datas"><i class="fa fa-user-circle-o"></i> 修改资料</a></div><div class="dlli lgset"></div><div class="dlli logout"><a href="javascript:;" class="login_logout"><i class="fa fa-sign-out"></i> 退出登录</a></div></div></div></div>
 				<div class="fly-search fly-search-s"><i class="fa fa-search"></i></div>
-			</div>
-		</div>
+			</div></div>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+分类形式:
+两种
+
+①单类
+
+②子母类
